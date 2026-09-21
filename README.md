@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Rispermaina/Rispermaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Risper Maina
 
-Here are some ideas to get you started:
+## About Me
+I'm currently learning computer programming at WECAN academy through the IYF program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in web development, coding languages and technology in general.
+I'm looking to collaborate on codebase maintenance, User interface improvements and coding languages.
+
+## Skills I'm Building
+- Git and GitHub
+- HTML
+- Python
+- JavaScripts
+
+## How to Reach Me
+- Email: rispermaina08@gmail.com
