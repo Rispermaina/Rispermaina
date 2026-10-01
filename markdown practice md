@@ -1,0 +1,36 @@
+Headings
+##My Learning Goals
+###This Semester
+Text formatting
+I am **intersested** in learning *programming* and everything and everything thing that pertains to `coding languages`
+Links
+[My github link](https://github.com/Rispermaina)
+Lists
+Three things i want to learn
+-HTML
+-JavaScript
+-CSS
+
+Steps of making a commit in Git
+1. Check status of files
+2. stage the files
+3. commit changes
+Table
+|Tools | Purpose| Link|
+|------|--------|-----|
+|git   |tracking changes in source code|[git-scm.com](https://git-scm.com)|
+|vs code|writing.editing and debugging code|[://visualstudio.com](https://://visualstudio.com)|
+
+Tasklist
+[x] git and github
+[ ] java script
+[ ] css
+
+codeblocks
+```python
+print("Hello, world!")
+```
+Blockquote
+>The expert in anything was once a beginner-Helen Hayes
+
+
